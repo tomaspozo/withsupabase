@@ -5,6 +5,7 @@ A curated collection of practical code snippets, recipes, and implementation exa
 ## Structure
 
 Each recipe includes:
+
 - A comprehensive README.md with setup and deployment instructions
 - Complete source code for the implementation
 - Links to accompanying blog posts or video tutorials demonstrating the solution
@@ -15,7 +16,7 @@ Browse through the folders to find specific use cases and implementations. Each 
 
 ## Stay Updated
 
-Follow [@tomaspozo_](https://twitter.com/tomaspozo_) on X (formerly Twitter) to get notifications when new recipes are released!
+Follow me [@tomaspozo\_](https://x.com/tomaspozo_) on X to be the first to know when new recipes are released!
 
 ## Contributing
 
