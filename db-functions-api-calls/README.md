@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://ugoelywoxxcasrqhlxei.supabase.co/storage/v1/object/public/covers/SECURE%20API%20Calls%20from%20DB%20Functions.png" alt="Secure API calls from db functions with Supabase pg_net and vault">
+  <img src="https://ugoelywoxxcasrqhlxei.supabase.co/storage/v1/object/public/covers/1.jpg" alt="Secure API calls from db functions with Supabase pg_net and vault">
   <h1>Secure API calls from db functions with Supabase pg_net and vault</h1>
 </p>
 
