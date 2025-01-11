@@ -4,7 +4,7 @@ BEGIN
     RAISE LOG 'New message: %', NEW;
 
     PERFORM net.http_post(
-        url := 'https://webhook-test.com/1a62629b4d70c3aaad75f09194e42c94',
+        url := 'https://webhook-test.com/404', -- REPLACE WITH YOUR WEBHOOK URL
         headers := jsonb_build_object(
             'Authorization', 'Bearer ultra_secret_token',
             'Content-Type', 'application/json'
