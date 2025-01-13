@@ -44,8 +44,8 @@ Or, set up manually:
 
 2. Copy and execute the following SQL scripts on you local Supabase instance SQL editor:
 
-   - `resources/db_function_get_decrypted_secret.sql`: create a reusable function to get decrypted secrets from vault.
-   - `resources/db_function_send_message_to_webhook_secure.sql`: update the `send_message_to_webhook` db function to make a secure call to your webhook.
+   - `supabase/resources/db_function_get_decrypted_secret.sql`: create a reusable function to get decrypted secrets from vault.
+   - `supabase/resources/db_function_send_message_to_webhook_secure.sql`: update the `send_message_to_webhook` db function to make a secure call to your webhook.
 
 3. Create a new message record in the `messages` table.
 
