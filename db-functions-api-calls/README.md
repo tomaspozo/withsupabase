@@ -33,7 +33,7 @@ This sample project provides showcases how to use Supabase DB functions to call 
 
 ## Next steps
 
-Follow along with the video tutorial [COMING SOON](#)
+Follow along with the [blog](https://tomaspozo.com/articles/secure-api-calls-supabase-pg-net-vault)
 
 Or, set up manually:
 
