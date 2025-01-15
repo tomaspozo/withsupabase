@@ -1,7 +1,4 @@
-<p align="center">
-  <img src="https://ugoelywoxxcasrqhlxei.supabase.co/storage/v1/object/public/covers/1.jpg" alt="Secure API calls from db functions with Supabase pg_net and vault">
-  <h1>Secure API calls from db functions with Supabase pg_net and vault</h1>
-</p>
+# Secure API calls from db functions with Supabase pg_net and vault</h1>
 
 This sample project provides showcases how to use Supabase DB functions to call external services like APIs and webhooks in a secure and clean way using [pg_net](https://github.com/supabase/pg_net) and [vault](https://github.com/supabase/vault).
 
