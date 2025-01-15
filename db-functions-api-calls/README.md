@@ -2,6 +2,8 @@
 
 This sample project provides showcases how to use Supabase DB functions to call external services like APIs and webhooks in a secure and clean way using [pg_net](https://github.com/supabase/pg_net) and [vault](https://github.com/supabase/vault).
 
+For an in depth explanation, check [this article](https://tomaspozo.com/articles/secure-api-calls-supabase-pg-net-vault).
+
 ## Requirements
 
 - Supabase CLI installed
@@ -29,10 +31,6 @@ This sample project provides showcases how to use Supabase DB functions to call 
    - A trigger that calls the `send_message_to_webhook` function on new messages records.
 
 ## Next steps
-
-Follow along with the [blog](https://tomaspozo.com/articles/secure-api-calls-supabase-pg-net-vault)
-
-Or, set up manually:
 
 1. Create the foolowing vault secrets in your Supabase instance:
 
